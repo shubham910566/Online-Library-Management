@@ -8,9 +8,6 @@ const booksSlice = createSlice({
     addBook: (state, action) => {
       state.push(action.payload);
     },
-    removeBook: (state, action) => {
-      return state.filter(book => book.id !== action.payload);
-    }
   }
 });
 
