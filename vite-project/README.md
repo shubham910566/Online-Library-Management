@@ -52,7 +52,7 @@ src/
 
 ```bash
 git clone https://github.com/shubham910566/Online-Library-Management.git
-cd React Assignement 2(Online Library System)
+cd vite-project
 ```
 
 #### 2. Install dependencies:
