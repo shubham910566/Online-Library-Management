@@ -40,8 +40,8 @@ src/
 ├── utils/
 │   ├── Data.js            // Dummy Data (book collection)
 │   └── Store.js           // Redux store & slice (books)
-├── App.jsx                // Main App Component (routes)
-└── main.jsx               // Entry point for React
+├── App.jsx                // Main App Component (Outlets)
+└── main.jsx               // Entry point for React(Routing)
 ```
 
 ---
